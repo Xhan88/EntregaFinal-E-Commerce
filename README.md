@@ -1,5 +1,7 @@
 # coder-app
 
+Este proyecto lo puedes correr con 
+npm run dev
 
 E-commerce tienda de Juguetes online es un proyecto de el bootcamp React.js
 que ofrece CoderHouse
